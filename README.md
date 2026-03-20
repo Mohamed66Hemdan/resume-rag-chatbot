@@ -131,9 +131,6 @@ streamlit run app.py
 ---
 
 ## 🔮 Future Improvements
-
-* دعم ملفات Word (DOCX)
-* تحسين UI/UX
 * Multilingual support (Arabic/English)
 * Resume evaluation and feedback 
 * Export responses as a report
