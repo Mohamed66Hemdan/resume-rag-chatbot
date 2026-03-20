@@ -55,7 +55,7 @@ Built using **Retrieval-Augmented Generation (RAG)**, this system extracts struc
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 * **Frontend:** Streamlit
 * **Backend:** Python
@@ -66,7 +66,7 @@ Built using **Retrieval-Augmented Generation (RAG)**, this system extracts struc
 
 ---
 
-## 📦 Installation
+## Installation
 
 ```bash
 git clone https://github.com/your-username/ai-cv-assistant.git
@@ -76,20 +76,12 @@ pip install -r requirements.txt
 
 ---
 
-## 🔑 Environment Variables
+## Environment Variables
 
 Create a `.env` file and add:
 
 ```env
 api_key=YOUR_TOGETHER_API_KEY
-```
-
----
-
-## ▶️ Run the App
-
-```bash
-streamlit run app.py
 ```
 
 ---
@@ -104,7 +96,7 @@ streamlit run app.py
 
 ---
 
-## 📸 Demo
+## Demo
 
 > Upload your CV and start chatting instantly!
 
