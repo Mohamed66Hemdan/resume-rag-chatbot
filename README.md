@@ -8,17 +8,17 @@ Built using **Retrieval-Augmented Generation (RAG)**, this system extracts struc
 
 ## 🚀 Features
 
-* 📄 Upload CV in PDF format
-* 🔍 Automatic text extraction and section detection
-* 🧠 Smart semantic search using embeddings
-* 🤖 AI-powered question answering
-* 💬 Interactive chat interface (Streamlit)
-* ⚡ Fast responses with caching
-* 🎯 Predefined quick questions for easy access
+* Upload CV in PDF format
+* Automatic text extraction and section detection
+* Smart semantic search using embeddings
+* AI-powered question answering
+* Interactive chat interface (Streamlit)
+* Fast responses with caching
+* Predefined quick questions for easy access
 
 ---
 
-## 🧠 How It Works
+## How It Works
 
 1. **PDF Processing**
 
@@ -144,4 +144,5 @@ streamlit run app.py
 ## 👨‍💻 Author
 
 **Mohamed Ahmed Hemdan**
+
 AI Engineer | Python Instructor | Teaching Assistant
