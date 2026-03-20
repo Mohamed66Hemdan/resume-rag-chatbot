@@ -94,7 +94,7 @@ streamlit run app.py
 
 ---
 
-## 💡 Example Questions
+## Example Questions
 
 * What are my key skills?
 * Summarize my work experience.
@@ -122,7 +122,7 @@ streamlit run app.py
 
 ---
 
-## ⚡ Performance Optimizations
+## Performance Optimizations
 
 * Uses `@st.cache_resource` to avoid rebuilding pipeline
 * Efficient document chunking
@@ -130,7 +130,7 @@ streamlit run app.py
 
 ---
 
-## 🔮 Future Improvements
+## Future Improvements
 * Multilingual support (Arabic/English)
 * Resume evaluation and feedback 
 * Export responses as a report
