@@ -6,7 +6,7 @@ Built using **Retrieval-Augmented Generation (RAG)**, this system extracts struc
 
 ---
 
-## 🚀 Features
+## Features
 
 * Upload CV in PDF format
 * Automatic text extraction and section detection
