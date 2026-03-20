@@ -145,9 +145,3 @@ streamlit run app.py
 
 **Mohamed Ahmed Hemdan**
 AI Engineer | Python Instructor | Teaching Assistant
-
----
-
-## ⭐ If you like this project
-
-Give it a star ⭐ on GitHub and share it!
