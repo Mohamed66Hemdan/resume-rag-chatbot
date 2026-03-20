@@ -1,4 +1,4 @@
-# 🤖 AI CV Assistant (RAG Chatbot)
+# AI CV Assistant (RAG Chatbot)
 
 An intelligent AI-powered chatbot that allows users to upload their CV (PDF) and interact with it using natural language questions.
 
