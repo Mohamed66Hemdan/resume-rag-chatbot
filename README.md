@@ -134,10 +134,10 @@ streamlit run app.py
 
 * دعم ملفات Word (DOCX)
 * تحسين UI/UX
-* Multi-language support (Arabic/English)
-* CV scoring & feedback
-* Export answers as report
-
+* Multilingual support (Arabic/English)
+* Resume evaluation and feedback 
+* Export responses as a report
+  
 ---
 
 
