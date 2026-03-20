@@ -98,7 +98,8 @@ api_key=YOUR_TOGETHER_API_KEY
 
 ## Demo
 
-> Upload your CV and start chatting instantly!
+![App Screenshot](demo/p1.png)
+![App Screenshot](demo/p2.png)
 
 ---
 
